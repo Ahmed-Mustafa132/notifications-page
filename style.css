@@ -26,6 +26,14 @@ html {
 }
 body {
   background-color: var(--Light-grayish-blue-1);
+  width: 1440px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h1 {
+  font-size: 2rem;
 }
 header {
   background-color: var(--White);
