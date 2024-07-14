@@ -17,8 +17,8 @@ This is a solution to the [Bookmark landing page challenge on Frontend Mentor](h
 
 ## Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/bookmark-landing-page-master-YLsQvGsW5i)
-- Live Site URL: (https://bookmark-landing-page-masterbyahmed.netlify.app/)
+- Solution URL: (https://www.frontendmentor.io/solutions/notificationspage-8CLTMx3aTr)
+- Live Site URL: (https://notifications-page-ahmedmostafa.netlify.app/)
 
 ## Built with
 
@@ -26,8 +26,7 @@ This is a solution to the [Bookmark landing page challenge on Frontend Mentor](h
 - CSS custom properties
 - Flexbox
 - JavaScript
-- Javascript DOM
-- Javascript RegExp
+
 
 ## Author
 
