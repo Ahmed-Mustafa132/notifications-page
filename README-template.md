@@ -1,7 +1,6 @@
-﻿# Frontend Mentor - Bookmark landing page solution
+# Frontend Mentor - Notifications page solution
 
-This is a solution to the [Bookmark landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
+This is a solution to the [Notifications page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 ## Table of contents
 - [Screenshot](#Screenshot)
 - [Links](#links)
