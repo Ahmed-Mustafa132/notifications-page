@@ -31,3 +31,4 @@ This is a solution to the [Notifications page challenge on Frontend Mentor](http
 
 - Frontend Mentor - [@Ahmed-Mustafa132](https://www.frontendmentor.io/profile/Ahmed-Mustafa132)
 - facebook - [@Dev-Ahmed-Mostafa](https://www.facebook.com/profile.php?id=100009378908202)
+- linked in - [@Ahmde Mostafa](https://www.linkedin.com/in/ahmed-mostafa-945a772a4/)
